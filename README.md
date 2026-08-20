@@ -43,6 +43,19 @@ Working at **UNITI WAQI SDN BHD**, based in Malaysia 🇲🇾
 
 <br/>
 
+## 📊 GitHub Stats
+
+<sub>Includes private repository activity, updated daily.</sub>
+
+<div align="center">
+
+![](./generated/overview.svg)
+![](./generated/languages.svg)
+
+</div>
+
+<br/>
+
 <div align="center">
 <sub>Reach out via GitHub if you'd like to talk about what I'm building.</sub>
 </div>
