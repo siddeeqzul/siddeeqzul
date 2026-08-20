@@ -43,14 +43,14 @@ Working at **UNITI WAQI SDN BHD**, based in Malaysia 🇲🇾
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 Contributions
 
-<sub>Includes private repository activity, updated daily.</sub>
+<sub>Public + private, last 12 months. Static snapshot — updated manually from time to time
+(`python3 generate-contribution-graph.py`), not live.</sub>
 
 <div align="center">
 
-![](./generated/overview.svg)
-![](./generated/languages.svg)
+![Contribution graph](./generated/contribution-graph.svg)
 
 </div>
 
