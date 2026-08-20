@@ -45,8 +45,6 @@ Working at **UNITI WAQI SDN BHD**, based in Malaysia 🇲🇾
 
 ## 📊 Contributions
 
-<sub>Public + private, last 12 months. Static snapshot — updated manually from time to time
-(`python3 generate-contribution-graph.py`), not live.</sub>
 
 <div align="center">
 
